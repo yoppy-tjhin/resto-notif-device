@@ -1,0 +1,10 @@
+{
+  "builtInLibrariesFolders": "D:\\Master\\arduino-1.8.2\\libraries,D:\\Master\\arduino-1.8.2\\libraries",
+  "customBuildProperties": "build.warn_data_percentage=75,runtime.tools.avr-gcc.path=D:\\Master\\arduino-1.8.2\\hardware\\tools\\avr,runtime.tools.avrdude.path=D:\\Master\\arduino-1.8.2\\hardware\\tools\\avr,runtime.tools.arduinoOTA.path=D:\\Master\\arduino-1.8.2\\hardware\\tools\\avr,build.warn_data_percentage=75,runtime.tools.esptool.path=C:\\Users\\User-pc\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\esptool\\0.4.9,runtime.tools.xtensa-lx106-elf-gcc.path=C:\\Users\\User-pc\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\xtensa-lx106-elf-gcc\\1.20.0-26-gb404fb9-2,runtime.tools.mkspiffs.path=C:\\Users\\User-pc\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\mkspiffs\\0.1.2",
+  "fqbn": "esp8266:esp8266:nodemcuv2:CpuFrequency=80,UploadSpeed=115200,FlashSize=4M3M",
+  "hardwareFolders": "D:\\Master\\arduino-1.8.2\\hardware,D:\\Master\\arduino-1.8.2\\hardware,C:\\Users\\User-pc\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\User-pc\\Documents\\Arduino\\libraries,C:\\Users\\User-pc\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10802",
+  "sketchLocation": "k:\\restautant notif dev\\source_code\\ssd1306_128x64_i2c\\ssd1306_128x64_i2c.ino",
+  "toolsFolders": "D:\\Master\\arduino-1.8.2\\tools-builder,D:\\Master\\arduino-1.8.2\\hardware\\tools\\avr,D:\\Master\\arduino-1.8.2\\tools-builder,D:\\Master\\arduino-1.8.2\\hardware\\tools\\avr,C:\\Users\\User-pc\\AppData\\Local\\Arduino15\\packages"
+}

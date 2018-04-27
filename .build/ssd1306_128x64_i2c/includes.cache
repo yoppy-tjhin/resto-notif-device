@@ -1,0 +1,67 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\User-pc\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.3.0\\cores\\esp8266"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\User-pc\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.3.0\\variants\\nodemcu"
+  },
+  {
+    "Sourcefile": "k:\\restautant notif dev\\source_code\\ssd1306_128x64_i2c\\.build\\ssd1306_128x64_i2c\\sketch\\ssd1306_128x64_i2c.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\User-pc\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.3.0\\libraries\\SPI"
+  },
+  {
+    "Sourcefile": "k:\\restautant notif dev\\source_code\\ssd1306_128x64_i2c\\.build\\ssd1306_128x64_i2c\\sketch\\ssd1306_128x64_i2c.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\User-pc\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.3.0\\libraries\\Wire"
+  },
+  {
+    "Sourcefile": "k:\\restautant notif dev\\source_code\\ssd1306_128x64_i2c\\.build\\ssd1306_128x64_i2c\\sketch\\ssd1306_128x64_i2c.ino.cpp",
+    "Include": "Adafruit_SSD1306.h",
+    "Includepath": "D:\\Master\\arduino-1.8.2\\libraries\\Adafruit_SSD1306-master"
+  },
+  {
+    "Sourcefile": "k:\\restautant notif dev\\source_code\\ssd1306_128x64_i2c\\.build\\ssd1306_128x64_i2c\\sketch\\ssd1306_128x64_i2c.ino.cpp",
+    "Include": "Adafruit_GFX.h",
+    "Includepath": "D:\\Master\\arduino-1.8.2\\libraries\\Adafruit-GFX-Library-master"
+  },
+  {
+    "Sourcefile": "k:\\restautant notif dev\\source_code\\ssd1306_128x64_i2c\\.build\\ssd1306_128x64_i2c\\sketch\\ssd1306_128x64_i2c.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\User-pc\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.3.0\\libraries\\SPI\\SPI.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\User-pc\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.3.0\\libraries\\Wire\\Wire.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Master\\arduino-1.8.2\\libraries\\Adafruit_SSD1306-master\\Adafruit_SSD1306.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Master\\arduino-1.8.2\\libraries\\Adafruit-GFX-Library-master\\Adafruit_GFX.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Master\\arduino-1.8.2\\libraries\\Adafruit-GFX-Library-master\\Adafruit_SPITFT.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Master\\arduino-1.8.2\\libraries\\Adafruit-GFX-Library-master\\glcdfont.c",
+    "Include": "",
+    "Includepath": ""
+  }
+]
