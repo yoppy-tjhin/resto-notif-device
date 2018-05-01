@@ -64,21 +64,27 @@ while (1) {
     display.setCursor(15,13);       // y=12, is the top most    
     display.println("~ Welcome ~");
 
-    
+    // underlines of 'Welcome'
     display.drawLine(15, 14, 111, 14, WHITE);
     display.drawLine(22, 16,  104, 16, WHITE);
 
+
     // display.setCursor(0,30);
     // display.print("Meja:");    
+    // ID number
     display.setTextSize(2);
     display.setCursor(8,55);
     display.println("26");
+
+    // separator line
     display.drawLine(50, 24, 50, 59, WHITE);
     display.drawLine(51, 23, 51, 60, WHITE);
     display.drawLine(52, 24, 52, 59, WHITE);
 
-    //test full expand
-    //display.drawLine(0, 0, 127, 63, WHITE);
+    //test available range
+    //display.drawLine(80, 20, 80, 45, WHITE);
+    display.drawBitmap(80, 20,  spoon, 32, 25, 1);
+    
 
     display.setTextSize(1);
     display.setCursor(56,58);
