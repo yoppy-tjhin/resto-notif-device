@@ -1,4 +1,7 @@
- // '0-bw_96x64', 96x64px. Black Background
+#ifndef BITMAP_H
+#define BITMAP_H
+
+// '0-bw_96x64', 96x64px. Black Background
  const unsigned char buffer1 [][96*64/8] PROGMEM = {
     
     {
@@ -486,3 +489,5 @@
 // delay(delay_ms);    
 // display.clearDisplay();
 // }
+
+#endif BITMAP_H
